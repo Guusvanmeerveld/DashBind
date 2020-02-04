@@ -1,0 +1,2 @@
+DashBind is a really simple mod, allowing you to set a keybind for your dash.
+Tip: This only works if you have an accessory that allows you to Dash.
